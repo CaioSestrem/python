@@ -27,3 +27,4 @@ while opcao != 5:
         n2 = int(input(' Digite seu segundo valor: '))
     if opcao == 6:
         print(f'A divisão entre os valores é de {n1 / n2} ')
+print('Você saiu do programa! ')
